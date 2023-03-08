@@ -3,7 +3,7 @@
 Thank you for considering contributing to our project! We appreciate your interest in helping us improve our software.
 
 ## Introduction
-This tool is designed to be used in incident response, pentesting and CTF's.
+This tool is designed to be used in incident response, pentesting & CTF's.
 
 ## Types of Contributions
 
