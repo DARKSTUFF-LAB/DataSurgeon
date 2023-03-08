@@ -1,4 +1,4 @@
-/* https://github.com/Drew-Alleman/DataSurgeon
+/* https://github.com/YAHYA950/DataSurgeon.git
 Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers & more from text 
 */ 
 use std::io;
@@ -28,9 +28,9 @@ struct DataSurgeon {
 impl Default for DataSurgeon {
     fn default() -> Self {
         Self {
-            matches: Command::new("DataSurgeon: https://github.com/Drew-Alleman/DataSurgeon")
+            matches: Command::new("DataSurgeon: https://github.com/YAHYA950/DataSurgeon.git")
         .version("1.0.5")
-        .author("https://github.com/Drew-Alleman/DataSurgeon")
+        .author("https://github.com/YAHYA950/DataSurgeon.git")
         .about("Note: All extraction features (e.g: -i) work on a specified file (-f) or an output stream.")
         .arg(Arg::new("file")
             .short('f')
@@ -54,7 +54,7 @@ impl Default for DataSurgeon {
         .arg(Arg::new("display")
             .short('D')
             .long("display")
-            .help("Displays the filename assoicated with the content found (https://github.com/Drew-Alleman/DataSurgeon#reading-all-files-in-a-directory)")
+            .help("Displays the filename assoicated with the content found (https://github.com/YAHYA950/DataSurgeon#reading-all-files-in-a-directory)")
             .action(clap::ArgAction::SetTrue)
         )
         .arg(Arg::new("suppress")
