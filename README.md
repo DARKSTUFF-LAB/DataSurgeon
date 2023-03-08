@@ -41,19 +41,19 @@ Please read the contributing guidelines [here](https://github.com/Drew-Alleman/D
 Install [Rust](https://www.rust-lang.org/tools/install) and [Github](https://desktop.github.com/)
 ### Linux
 ```
-wget -O - https://raw.githubusercontent.com/Drew-Alleman/DataSurgeon/main/install/install.sh | bash
+wget -O - https://raw.githubusercontent.com/YAHYA950/DataSurgeon/main/install/install.sh | bash
 ```
 
 ### Windows 
 Enter the line below in an elevated powershell window. 
 ```
-IEX (New-Object Net.WebClient).DownloadString("https://raw.githubusercontent.com/Drew-Alleman/DataSurgeon/main/install/install.ps1")
+IEX (New-Object Net.WebClient).DownloadString("https://raw.githubusercontent.com/YAHYA950/DataSurgeon/main/install/install.ps1")
 ```
 Relaunch your terminal and you will be able to use ```ds``` from the command line.
 
 ### Mac
 ```
-curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Drew-Alleman/DataSurgeon/main/install/install.sh | sh
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/YAHYA950/DataSurgeon/main/install/install.sh | sh
 ```
 
 # Command Line Arguments
