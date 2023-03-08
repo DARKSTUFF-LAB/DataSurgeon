@@ -9,7 +9,7 @@ What command did you execute? If you can't install DataSurgeon what command did 
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain your problem
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
