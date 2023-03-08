@@ -1,5 +1,5 @@
 /* https://github.com/Drew-Alleman/DataSurgeon
-Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and more from text 
+Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers & more from text 
 */ 
 use std::io;
 use clap::Arg;
